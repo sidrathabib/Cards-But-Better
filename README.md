@@ -1,4 +1,5 @@
 # Cards-But-Better 
+
 ## For this project, I am shadowing Hyperplexed youtube video: [ImNotGoodEnough.js](https://www.youtube.com/watch?v=6TYkDy54q4E&list=PLbP5K8j2sxDlmpqAhvpF65CSPjfj4d6pJ&index=6)
 
 I will be posting a live and a demo below of the final product once it is completed. 
