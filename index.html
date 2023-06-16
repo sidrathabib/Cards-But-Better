@@ -4,102 +4,132 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Cards</title>
+    <title>Sidcat Cafe</title>
+    <link rel="icon" href="paw.png" type="image/x-icon"/>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="kippo-hover.css">
     <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
   </head>
   <body>
 
-<div class="card-swiper">
-  <div class="card-groups">
-    <div class="card-group" data-index="0" data-status="active">
-      <div class="little-card card">
 
+
+    <nav>
+      <ul>
+        <li><a href="../../components/home.html">Home</a></li>
+        <li><a href="../../components/about.html">About</a></li>
+        <li><a href="../../components/cafe.html">Cafe</a></li>
+        <li><a href="../../components/cats.html">Cats</a></li>
+        <li><a href="../../components/kitten-cam.html">Kitten Cam</a></li>
+        <li><a href="../../components/donate.html">Donate</a></li>
+        <li><a href="../../components/shop.html">Shop</a></li>
+      </ul>
+    </nav>
+
+
+
+  <div class="kippo-hover"> 
+    <div class="card-swiper">
+      <div class="card-groups">
+        <div class="card-group" data-index="0" data-status="active">
+          <div class="little-card card">
+
+          </div>
+          <div class="big-card card">
+
+          </div>
+          <div class="little-card card">
+
+          </div>
+          <div class="big-card card">
+
+          </div>
+          <div class="little-card card">
+
+          </div>
+          <div class="big-card card">
+
+          </div>
+          <div class="little-card card">
+
+          </div>
+          <div class="big-card card">
+
+          </div>
+        </div>
+        <div class="card-group" data-index="1" data-status="unknown">
+          <div class="little-card card">
+
+          </div>
+          <div class="big-card card">
+
+          </div>
+          <div class="little-card card">
+
+          </div>
+          <div class="big-card card">
+
+          </div>
+          <div class="little-card card">
+
+          </div>
+          <div class="big-card card">
+
+          </div>
+          <div class="little-card card">
+
+          </div>
+          <div class="big-card card">
+
+          </div>
+        </div>
+        <div class="card-group" data-index="2" data-status="unknown">
+          <div class="little-card card">
+
+          </div>
+          <div class="big-card card">
+
+          </div>
+          <div class="little-card card">
+
+          </div>
+          <div class="big-card card">
+
+          </div>
+          <div class="little-card card">
+
+          </div>
+          <div class="big-card card">
+
+          </div>
+          <div class="little-card card">
+
+          </div>
+          <div class="big-card card">
+
+          </div>
+        </div>
       </div>
-      <div class="big-card card">
-
-      </div>
-      <div class="little-card card">
-
-      </div>
-      <div class="big-card card">
-
-      </div>
-      <div class="little-card card">
-
-      </div>
-      <div class="big-card card">
-
-      </div>
-      <div class="little-card card">
-
-      </div>
-      <div class="big-card card">
-
-      </div>
-    </div>
-    <div class="card-group" data-index="1" data-status="unknown">
-      <div class="little-card card">
-
-      </div>
-      <div class="big-card card">
-
-      </div>
-      <div class="little-card card">
-
-      </div>
-      <div class="big-card card">
-
-      </div>
-      <div class="little-card card">
-
-      </div>
-      <div class="big-card card">
-
-      </div>
-      <div class="little-card card">
-
-      </div>
-      <div class="big-card card">
-
-      </div>
-    </div>
-    <div class="card-group" data-index="2" data-status="unknown">
-      <div class="little-card card">
-
-      </div>
-      <div class="big-card card">
-
-      </div>
-      <div class="little-card card">
-
-      </div>
-      <div class="big-card card">
-
-      </div>
-      <div class="little-card card">
-
-      </div>
-      <div class="big-card card">
-
-      </div>
-      <div class="little-card card">
-
-      </div>
-      <div class="big-card card">
-
+      <div class="card-swiper-buttons">
+        <button id="hate-button" onclick="handleHateClick()">
+          <i class="fa-solid fa-x"></i>
+        </button>
+        <button id="love-button" onclick="handleLoveClick()">
+          <i class="fa-solid fa-heart"></i>
+        </button>
       </div>
     </div>
   </div>
-  <div class="card-swiper-buttons">
-    <button id="hate-button" onclick="handleHateClick()">
-      <i class="fa-solid fa-x"></i>
-    </button>
-    <button id="love-button" onclick="handleLoveClick()">
-      <i class="fa-solid fa-heart"></i>
-    </button>
-  </div>
-</div>
+
+
+
+  <footer>
+    <p>
+      © Sidcat Cafe 2023. All rights reserved.
+    </p>
+  </footer> 
+
+
 
 	<script src="index.js"></script>
   </body>
