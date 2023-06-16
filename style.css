@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(150, 198, 235);  
+    margin: 0px;  
+    height: 100vh;
+  }
+
+/* index css */
+.main-header { 
+    background-color: rgb(57, 150, 221);
+    
+}

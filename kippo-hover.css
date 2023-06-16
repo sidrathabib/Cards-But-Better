@@ -1,11 +1,8 @@
-body {
-    background-color: rgb(90, 222, 255);  
-    margin: 0px;  
-    height: 100vh;
+  .kippo-hover{
     display: grid;
     place-items: center;
   }
-  
+
   .card-groups,
   .card-group,
   .card {
@@ -219,4 +216,9 @@ body {
   #love-button {
     /*color: rgb(33, 150, 243);*/
     border-color: rgb(33, 150, 243);
+  }
+
+  .w3-container { 
+    margin-top: 30vmin;
+    margin-bottom: 30vmin; 
   }
