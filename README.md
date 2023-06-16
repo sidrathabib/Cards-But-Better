@@ -3,7 +3,7 @@ Cloning [Brooklyn Cat Cafe's](https://catcafebk.com/) website
 
 ## Sid's Take 
 
-Well, looks like I finished shadowing Hyperplexed's video [ImNotGoodEnough.js](https://www.youtube.com/watch?v=6TYkDy54q4E&list=PLbP5K8j2sxDlmpqAhvpF65CSPjfj4d6pJ&index=6). Incidently, putting cats into the card has inspired me to try to turn this into a cat cafe website. Luckily, Brooklyn Cat Cafe's site has lots of components that I can try to recreate on my own as a nice refresher. I'm looking forward to the *shop* part of it where I can perhaps play with API's and create a fake store (back-end stuff yeah?).
+Well, looks like I finished shadowing Hyperplexed's video [ImNotGoodEnough.js](https://www.youtube.com/watch?v=6TYkDy54q4E&list=PLbP5K8j2sxDlmpqAhvpF65CSPjfj4d6pJ&index=6). Incidently, putting cats into the card has inspired me to try to turn this into a cat cafe website. Luckily, Brooklyn Cat Cafe's site has lots of components that I can try to recreate on my own as a nice refresher. I'm looking forward to the *shop* part of it where I can perhaps play with API's and create a fake store (back-end stuff, yeah?).
 
 <div dir="rtl">Sid</div>
 <div dir="rtl">Project 1</div>
