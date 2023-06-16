@@ -2,12 +2,18 @@
 Cloning [Brooklyn Cat Cafe's](https://catcafebk.com/) website 
 
 ## Sid's Take 
+ 
+Update! I'm just going to remake what I have in React before this project gets to big!! To view the Kippo-Hover-Card effect, git clone my repo and set index.html to live view (I use a VScode extension). 
+
+<div dir="rtl">Sid</div>
+<div dir="rtl">Project 1</div>
+<div dir="rtl">Time: June 17, 2023</div>   
 
 Well, looks like I finished shadowing Hyperplexed's video [ImNotGoodEnough.js](https://www.youtube.com/watch?v=6TYkDy54q4E&list=PLbP5K8j2sxDlmpqAhvpF65CSPjfj4d6pJ&index=6). Incidently, putting cats into the card has inspired me to try to turn this into a cat cafe website. Luckily, Brooklyn Cat Cafe's site has lots of components that I can try to recreate on my own as a nice refresher. I'm looking forward to the *shop* part of it where I can perhaps play with API's and create a fake store (back-end stuff, yeah?).
 
 <div dir="rtl">Sid</div>
-<div dir="rtl">Project 1</div>
-<div dir="rtl">Time: June 15, 2023</div>     
+<div dir="rtl">Mini-Project 1</div>
+<div dir="rtl">Time: June 15, 2023</div>    
 
 </br>
 
