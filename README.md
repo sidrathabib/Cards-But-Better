@@ -3,7 +3,7 @@ Cloning [Brooklyn Cat Cafe's](https://catcafebk.com/) website
 
 ## Sid's Take 
  
-Update! I'm just going to remake what I have in React before this project gets to big!! To view the Kippo-Hover-Card effect, git clone my repo and set index.html to live view (I use a VScode extension). 
+Update! I'm just going to remake what I have in React before this project gets to big!! To view the Kippo-Hover-Card effect, git clone my repo and set index.html to live view (I use a VScode extension). Will be fixing buttons soon. 
 
 <div dir="rtl">Sid</div>
 <div dir="rtl">Project 1</div>
