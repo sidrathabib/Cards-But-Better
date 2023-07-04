@@ -1,13 +1,13 @@
-# Sidcat-Cafe
+# Cards-But-Better
 Cloning [Brooklyn Cat Cafe's](https://catcafebk.com/) website 
 
 ## Sid's Take 
  
-Update! I'm just going to remake what I have in React before this project gets to big!! To view the Kippo-Hover-Card effect, git clone my repo and set index.html to live view (I use a VScode extension). Will be fixing buttons soon. 
+Update! Will be keeping this as a mini-project and moving the bigger idea into a fully functional React based website. Redirect to [here](https://github.com/sidrathabib/sidcat-cafe)
 
 <div dir="rtl">Sid</div>
 <div dir="rtl">Project 1</div>
-<div dir="rtl">Time: June 17, 2023</div>   
+<div dir="rtl">Time: July 4, 2023</div>   
 
 </br>
 
